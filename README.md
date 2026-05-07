@@ -57,9 +57,9 @@ Future Goals:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RendyGH7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RendyGH7&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 </div>
 
@@ -69,7 +69,7 @@ Future Goals:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true&background=00000000"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RendyGH7&theme=tokyonight&hide_border=true&background=00000000"/>
 
 </div>
 
@@ -79,7 +79,7 @@ Future Goals:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RendyGH7&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
 
 </div>
 
@@ -89,7 +89,7 @@ Future Goals:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/RendyGH7/RendyGH7/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -113,15 +113,15 @@ Future Goals:
 
 <div align="center">
 
-<a href="https://github.com/USERNAME">
+<a href="https://github.com/RendyGH7">
 <img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 
-<a href="https://instagram.com/USERNAME">
+<a href="https://instagram.com/renfertz">
 <img src="https://skillicons.dev/icons?i=instagram" height="55"/>
 </a>
 
-<a href="https://linkedin.com/in/USERNAME">
+<a href="https://linkedin.com/in/rendy-fernando">
 <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
@@ -149,7 +149,7 @@ Future Goals:
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=RendyGH7&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
@@ -169,7 +169,7 @@ Future Goals:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=RendyGH7&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
