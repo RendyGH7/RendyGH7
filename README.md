@@ -121,7 +121,7 @@ Future Goals:
 <img src="https://skillicons.dev/icons?i=instagram" height="55"/>
 </a>
 
-<a href="https://linkedin.com/in/rendy-fernando">
+<a href="[https://linkedin.com/in/rendy-fernando](https://www.linkedin.com/in/rendy-fernando-a68a362b1?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
 <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
