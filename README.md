@@ -134,26 +134,6 @@ Goal :
 
 ---
 
-# 👀 Profile Visitors
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=RendyGH7&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
-
-</div>
-
----
-
-# ⚙️ Spotify Playing
-
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31xxxxxxxxxxxx&cover_image=true&theme=novatorem"/>
-
-</div>
-
----
-
 # 🏆 GitHub Trophies
 
 <div align="center">
