@@ -68,18 +68,6 @@ Goal :
 
 ---
 
-# 🌌 Developer Activity
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RendyGH7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RendyGH7&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-</div>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
@@ -105,20 +93,6 @@ Goal :
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/RendyGH7/RendyGH7/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 🧠 Current Focus
-
-<div align="center">
-
-| 🚀 Learning | 💼 Building | 🎯 Goal |
-|---|---|---|
-| React Native | Modern Portfolio | Successful Entrepreneur |
-| Backend Basics | SaaS Ideas | Financial Freedom |
-| UI/UX Design | Web Apps | Tech Business |
 
 </div>
 
