@@ -12,72 +12,49 @@
 
 ---
 
-# 🌌 About Me
+# 💫 About Me
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Frontend+Developer+%7C+Creative+Thinker;Crafting+Modern+Digital+Experiences;Focused+Mindset+%E2%80%A2+Disciplined+Lifestyle;Future+Tech+Entrepreneur;Turning+Ideas+Into+Reality"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280"/>
-
-</div>
+<table>
+<tr>
+<td width="60%">
 
 ```yaml
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+👨‍💻 Rendy Fernando
 
-👨‍💻 PROFILE
+Role       : Frontend Developer
+Focus      : Modern Web Development
+Passion    : UI/UX & Interactive Design
 
-Name        : Rendy Fernando
-Role        : Frontend Developer
-Location    : Indonesia
-Focus       : Modern Web Experiences
+Tech Stack :
+  - React
+  - Next.js
+  - TailwindCSS
+  - JavaScript
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Mindset :
+  - Focused
+  - Disciplined
+  - Consistent
 
-🚀 SPECIALIZATION
-
-▸ Interactive Frontend Development
-▸ Responsive & Modern UI Design
-▸ Website Animation & User Experience
-▸ React / Next.js Ecosystem
-▸ Clean & Scalable Interface
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-⚡ CURRENT TECH STACK
-
-Frontend    : React, Next.js, TailwindCSS
-Language    : JavaScript, TypeScript
-Tools       : VS Code, Git, GitHub, Figma
-Learning    : React Native & Backend Development
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🧠 MINDSET
-
-✔ Discipline
-✔ Consistency
-✔ Focus
-✔ Continuous Growth
-✔ Creative Thinking
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-💼 FUTURE VISION
-
-Building powerful digital products,
-creating impactful user experiences,
-and growing into a successful
-technology entrepreneur.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Goal :
+  Building impactful digital products
+  and becoming a successful
+  tech entrepreneur.
 ```
+
+</td>
+
+<td width="40%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
