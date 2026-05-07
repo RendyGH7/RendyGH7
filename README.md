@@ -43,7 +43,7 @@ Future Goals:
 
 ---
 
-# 🚀 Tech Arsenal
+# 🚀 Tech Task
 
 <div align="center">
 
