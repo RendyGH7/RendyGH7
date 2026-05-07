@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Frontend+Developer+With+Creative+Vision;Crafting+Modern+%26+Interactive+Experiences;Focused+Mindset+%7C+Disciplined+Lifestyle;Future+Tech+Entrepreneur;Turning+Ideas+Into+Digital+Reality"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Frontend+Developer+%7C+Creative+Thinker;Crafting+Modern+Digital+Experiences;Focused+Mindset+%E2%80%A2+Disciplined+Lifestyle;Future+Tech+Entrepreneur;Turning+Ideas+Into+Reality"/>
 
 </div>
 
@@ -24,145 +24,62 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td width="55%">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280"/>
+
+</div>
 
 ```yaml
-Name: Rendy Fernando
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Role:
-  - Frontend Developer
-  - UI/UX Enthusiast
-  - Future Businessman
+👨‍💻 PROFILE
 
-Specialization:
-  - Modern Web Design
-  - Interactive UI
-  - Responsive Development
-  - Frontend Animation
+Name        : Rendy Fernando
+Role        : Frontend Developer
+Location    : Indonesia
+Focus       : Modern Web Experiences
 
-Current Stack:
-  - React
-  - Next.js
-  - TailwindCSS
-  - JavaScript
-  - TypeScript
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Mindset:
-  - Discipline
-  - Focus
-  - Consistency
-  - Growth
+🚀 SPECIALIZATION
 
-Mission:
-  Building impactful digital experiences
-  while growing into a successful
-  entrepreneur in the tech industry.
+▸ Interactive Frontend Development
+▸ Responsive & Modern UI Design
+▸ Website Animation & User Experience
+▸ React / Next.js Ecosystem
+▸ Clean & Scalable Interface
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚡ CURRENT TECH STACK
+
+Frontend    : React, Next.js, TailwindCSS
+Language    : JavaScript, TypeScript
+Tools       : VS Code, Git, GitHub, Figma
+Learning    : React Native & Backend Development
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🧠 MINDSET
+
+✔ Discipline
+✔ Consistency
+✔ Focus
+✔ Continuous Growth
+✔ Creative Thinking
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💼 FUTURE VISION
+
+Building powerful digital products,
+creating impactful user experiences,
+and growing into a successful
+technology entrepreneur.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-</td>
-
-<td width="45%">
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%"/>
-
-</div>
-
-</td>
-</tr>
-</table>
-
-</div>
-
 ---
-
-# ⚡ Developer Philosophy
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🧠 Current Status
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=USERNAME&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🚀 What I'm Doing
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,firebase,nodejs,figma"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🎨 Frontend
-
-Creating beautiful and responsive  
-modern web interfaces.
-
-</td>
-
-<td align="center" width="33%">
-
-### 💼 Business
-
-Learning digital business and  
-building future opportunities.
-
-</td>
-
-<td align="center" width="33%">
-
-### 🧠 Growth
-
-Improving discipline, focus,  
-and consistency every day.
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-# 🌠 Digital Identity
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=120&section=header&text=Code%20.%20Create%20.%20Build%20.%20Grow&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
-
-</div>
-
----
-
-# 🛸 Coding Animation
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600"/>
-
-</div>
 
 # 🚀 Tech Task
 
