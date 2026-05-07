@@ -1,94 +1,208 @@
-<h1 align="center">Hi 👋, I'm Rendy Fernando</h1>
-<h3 align="center">Frontend Developer • UI Enthusiast • Future Tech Entrepreneur</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%26+React+Native+Developer;Building+Modern+Web+Experiences;Always+Learning+New+Technology" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Rendy%20Fernando&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20•%20Future%20Businessman%20•%20Focused%20Mindset&descAlignY=55"/>
 
----
+</div>
 
-# 🚀 About Me
+<div align="center">
 
-- 💻 Focused on Frontend Web Development
-- 📱 Learning React Native
-- 🎨 Passionate about UI/UX Design
-- 🌱 Currently learning Full Stack Development
-- 🧠 Interested in Business & Technology
-- ⚡ Goal: Build successful digital products
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=Frontend+Developer+From+Indonesia;Building+Modern+%26+Interactive+Websites;React+%7C+Next.js+%7C+TailwindCSS;Future+Tech+Entrepreneur;Focused+%2B+Disciplined+%2B+Consistent;Never+Stop+Learning+New+Things"/>
+
+</div>
 
 ---
 
-# 🌐 Connect With Me
+# ⚡ About Me
 
-<p align="left">
-<a href="https://github.com/USERNAME" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
+<img align="right" height="270" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<a href="https://instagram.com/USERNAME" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
-</a>
+```yaml
+Name: Rendy Fernando
+Role: Frontend Developer
+Location: Indonesia
 
-<a href="https://linkedin.com/in/USERNAME" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-</p>
+Focus:
+  - Frontend Development
+  - UI/UX Design
+  - Mobile Development
+  - Modern Web Experience
+
+Mindset:
+  - Discipline
+  - Focus
+  - Consistency
+  - Growth
+
+Future Goals:
+  - Become Successful Businessman
+  - Build Big Tech Products
+  - Create Powerful Digital Brand
+```
+
+<br><br><br><br><br><br>
 
 ---
 
-# 💻 Tech Stack
+# 🚀 Tech Arsenal
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,tailwind,firebase,mysql,figma,vscode,git,github" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,nodejs,express,firebase,mysql,mongodb,figma,vscode,git,github,npm,vercel,netlify&perline=10"/>
+
+</div>
 
 ---
 
-# 📊 GitHub Stats
+# 🌌 Developer Activity
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+</div>
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true&background=00000000"/>
+
+</div>
 
 ---
 
-# 🐍 Contribution Snake
+# 📈 Contribution Graph
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/snake.svg" />
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
 
-# 🚀 Featured Projects
-
-## 🌐 Modern Portfolio Website
-Frontend portfolio with responsive modern UI.
-
-## 📱 React Native Mobile App
-Mobile application using React Native & Expo.
-
-## 🛒 E-Commerce Website
-Online shop website with authentication and dashboard.
+</div>
 
 ---
 
-# ☕ Support Me
+# 🐍 Contribution Snake Animation
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
 
 ---
 
-<h3 align="center">Thanks for visiting my profile 🚀</h3>
+# 🧠 Current Focus
+
+<div align="center">
+
+| 🚀 Learning | 💼 Building | 🎯 Goal |
+|---|---|---|
+| React Native | Modern Portfolio | Successful Entrepreneur |
+| Backend Basics | SaaS Ideas | Financial Freedom |
+| UI/UX Design | Web Apps | Tech Business |
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/USERNAME">
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+</a>
+
+<a href="https://instagram.com/USERNAME">
+<img src="https://skillicons.dev/icons?i=instagram" height="55"/>
+</a>
+
+<a href="https://linkedin.com/in/USERNAME">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+
+<a href="https://discord.com">
+<img src="https://skillicons.dev/icons?i=discord" height="55"/>
+</a>
+
+</div>
+
+---
+
+# 💎 Quote
+
+<div align="center">
+
+> “Discipline creates consistency.  
+> Consistency creates growth.  
+> Growth creates success.”
+
+</div>
+
+---
+
+# 👀 Profile Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=USERNAME&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+# ⚙️ Spotify Playing
+
+<div align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31xxxxxxxxxxxx&cover_image=true&theme=novatorem"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 💻 Featured Projects
+
+<div align="center">
+
+| Project | Description |
+|---|---|
+| 🌐 Modern Portfolio | Futuristic animated portfolio website |
+| 📱 Mobile App | React Native modern mobile application |
+| 🛒 E-Commerce | Full modern online shop |
+| ⚡ Dashboard UI | Beautiful admin dashboard |
+| 🎨 UI Components | Reusable frontend component library |
+
+</div>
+
+---
+
+# 🛸 3D Coding Animation
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="500"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+
+</div>
