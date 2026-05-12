@@ -4,12 +4,6 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=Frontend+Developer+From+Indonesia;Building+Modern+%26+Interactive+Websites;React+%7C+Next.js+%7C+TailwindCSS;Future+Tech+Entrepreneur;Focused+%2B+Disciplined+%2B+Consistent;Never+Stop+Learning+New+Things"/>
-
-</div>
-
 ---
 
 # 💫 About Me
