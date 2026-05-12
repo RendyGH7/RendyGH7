@@ -128,16 +128,6 @@ Goal :
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RendyGH7&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
 # 💻 Featured Projects
 
 <div align="center">
@@ -149,16 +139,6 @@ Goal :
 | 🛒 E-Commerce | Full modern online shop |
 | ⚡ Dashboard UI | Beautiful admin dashboard |
 | 🎨 UI Components | Reusable frontend component library |
-
-</div>
-
----
-
-# 🛸 3D Coding Animation
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="500"/>
 
 </div>
 
