@@ -116,34 +116,6 @@ Goal :
 
 ---
 
-# 💎 Quote
-
-<div align="center">
-
-> “Discipline creates consistency.  
-> Consistency creates growth.  
-> Growth creates success.”
-
-</div>
-
----
-
-# 💻 Featured Projects
-
-<div align="center">
-
-| Project | Description |
-|---|---|
-| 🌐 Modern Portfolio | Futuristic animated portfolio website |
-| 📱 Mobile App | React Native modern mobile application |
-| 🛒 E-Commerce | Full modern online shop |
-| ⚡ Dashboard UI | Beautiful admin dashboard |
-| 🎨 UI Components | Reusable frontend component library |
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
