@@ -62,16 +62,6 @@ Goal :
 
 ---
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RendyGH7&theme=tokyonight&hide_border=true&background=00000000"/>
-
-</div>
-
----
-
 # 📈 Contribution Graph
 
 <div align="center">
