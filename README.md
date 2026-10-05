@@ -89,30 +89,6 @@ Goal :
 
 ---
 
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/RendyGH7">
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
-</a>
-
-<a href="https://instagram.com/renfertz">
-<img src="https://skillicons.dev/icons?i=instagram" height="55"/>
-</a>
-
-<a href="[https://linkedin.com/in/rendy-fernando](https://www.linkedin.com/in/rendy-fernando-a68a362b1?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
-</a>
-
-<a href="https://discord.com">
-<img src="https://skillicons.dev/icons?i=discord" height="55"/>
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
