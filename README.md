@@ -17,8 +17,8 @@
 ```yaml
 👨‍💻 Rendy Fernando
 
-Role       : Frontend Developer
-Focus      : Modern Web Development
+Role       : Full Stack Developer
+Focus      : Clean & Modern Web Development
 Passion    : UI/UX & Interactive Design
 
 Tech Stack :
@@ -26,6 +26,13 @@ Tech Stack :
   - Next.js
   - TailwindCSS
   - JavaScript
+  - TypeScript
+  - PHP
+  - Laravel
+  - Python
+  - Node
+  - PostgreSQL
+  - MySQL
 
 Mindset :
   - Focused
