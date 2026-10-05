@@ -89,26 +89,6 @@ Mindset:
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RendyGH7&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RendyGH7&theme=tokyo-night&hide_border=true&area=true&radius=10&custom_title=Contribution%20Graph"/>
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -118,28 +98,6 @@ Mindset:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RendyGH7/RendyGH7/output/snake-rendy-light.svg">
   <img alt="Rendy Fernando Tambunan - Contribution Snake" src="https://raw.githubusercontent.com/RendyGH7/RendyGH7/output/snake-rendy-dark.svg">
 </picture>
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/RendyGH7/NAMA-REPO-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RendyGH7&repo=NAMA-REPO-1&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/RendyGH7/NAMA-REPO-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RendyGH7&repo=NAMA-REPO-2&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/RendyGH7/NAMA-REPO-3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RendyGH7&repo=NAMA-REPO-3&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/RendyGH7/NAMA-REPO-4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RendyGH7&repo=NAMA-REPO-4&theme=tokyonight&hide_border=true"/>
-</a>
 
 </div>
 
