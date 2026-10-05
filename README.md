@@ -8,10 +8,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=RendyGH7&label=Profile+Views&style=for-the-badge&color=2C5364"/>
-<img src="https://img.shields.io/github/followers/RendyGH7?style=for-the-badge&logo=github&color=203A43&labelColor=0F2027"/>
-<img src="https://img.shields.io/github/stars/RendyGH7?style=for-the-badge&logo=github&color=203A43&labelColor=0F2027"/>
-
 </div>
 
 ---
